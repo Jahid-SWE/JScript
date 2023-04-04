@@ -14,3 +14,20 @@ document.getElementById('arightmetic').innerHTML=adition;
 // document.getElementById('arightmetic').innerHTML=multiplication;
 // document.getElementById('arightmetic').innerHTML=division;
 // document.getElementById('arightmetic').innerHTML=modulus;
+
+
+//Assignment Operators 
+
+var firstNumber  = 20;
+    firstNumber +=5;
+    // firstNumber -=5;
+    // firstNumber *=5;
+    // firstNumber /=5;
+    // firstNumber %=5;
+    // firstNumber **=5;
+document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber+5
+// document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber-5
+// document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber*5
+// document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber/5
+// document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber%5
+// document.getElementById('assignment').innerHTML = firstNumber; //firstNumber= firstNumber**5
